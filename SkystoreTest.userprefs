@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="SkystoreTest/SkystoreTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SkystoreTest/Test.cs">
+    <Files>
+      <File FileName="SkystoreTest/Test.cs" Line="57" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="SkystoreTest" expanded="True" selected="True">
+            <Node name="SkystoreTest" expanded="True">
+              <Node name="SkystoreTest" expanded="True">
+                <Node name="HomePageTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

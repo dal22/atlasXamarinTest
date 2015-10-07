@@ -1,0 +1,8 @@
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/bin/Debug/skystore-main-PDApi-internal.apk
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/bin/Debug/SkystoreTest.dll.mdb
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/bin/Debug/SkystoreTest.dll
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/obj/Debug/SkystoreTest.dll
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/obj/Debug/SkystoreTest.dll.mdb
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/bin/Debug/nunit.framework.dll
+/Users/aliwarsame/Projects/SkystoreTest/SkystoreTest/bin/Debug/Xamarin.UITest.dll
